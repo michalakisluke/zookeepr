@@ -119,61 +119,37 @@
       "id": "11"
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "",
+      "name": "Timmy",
+      "species": "Turtle",
+      "diet": "folivore",
       "personalityTraits": [
-        "hungry"
+        "hungry",
+        "zany",
+        "anxious",
+        "goofy"
       ],
       "id": "12"
     },
     {
-      "name": "Timmy",
-      "species": "Turtle",
+      "name": "Ricky",
+      "species": "Rabbit",
       "diet": "folivore",
       "personalityTraits": [
-        "hungry",
-        "zany",
-        "anxious",
-        "goofy"
+        "anxious"
       ],
       "id": "13"
     },
     {
-      "name": "Timmy",
-      "species": "Turtle",
-      "diet": "folivore",
+      "name": "Henry",
+      "species": "Corgi",
+      "diet": "omnivore",
       "personalityTraits": [
         "hungry",
         "zany",
-        "anxious",
+        "loving",
         "goofy"
       ],
-      "id": "13"
-    },
-    {
-      "name": "Timmy",
-      "species": "Turtle",
-      "diet": "folivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "anxious",
-        "goofy"
-      ],
-      "id": "15"
-    },
-    {
-      "name": "Timmy",
-      "species": "Turtle",
-      "diet": "folivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "anxious",
-        "goofy"
-      ],
-      "id": "15"
+      "id": "14"
     }
   ]
 }
